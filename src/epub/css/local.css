@@ -1,11 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-/* Language semantics for polytonic greek */
-:lang(grc){
-	font-style: italic;
-}
-
 /* Styling for chapters numbers */
 .chapter{
 	font-weight: bold;
