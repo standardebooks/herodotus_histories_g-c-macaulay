@@ -81,4 +81,10 @@
 			<reason>White space is apparently non-existent</reason>
 		</ignore>
 	</file>
+	<file path="content.opf">
+		<ignore>
+			<code>x-018</code>
+			<reason>Ignore unused id attributes ofr now.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
