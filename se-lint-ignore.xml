@@ -5,19 +5,11 @@
 			<code>x-019</code>
 			<reason>Id is correct for now.</reason>
 		</ignore>
-		<ignore>
-			<code>t-012</code>
-			<reason>White space is apparently non-existent</reason>
-		</ignore>
 	</file>
 	<file path="book-2.xhtml">
 		<ignore>
 			<code>x-019</code>
 			<reason>Id is correct for now.</reason>
-		</ignore>
-		<ignore>
-			<code>t-012</code>
-			<reason>White space is apparently non-existent</reason>
 		</ignore>
 	</file>
 	<file path="book-3.xhtml">
@@ -25,20 +17,17 @@
 			<code>x-019</code>
 			<reason>Id is correct for now.</reason>
 		</ignore>
-		<ignore>
-			<code>t-012</code>
-			<reason>White space is apparently non-existent</reason>
-		</ignore>
 	</file>
-	<file path="book-4.xhtml"><ignore><code>x-019</code> <reason>Id is correct for now.</reason></ignore> ]<ignore><code>t-012</code> <reason>White space is apparently non-existent</reason></ignore></file>
-	<file path="book-5.xhtml">
+	<file path="book-4.xhtml">
 		<ignore>
 			<code>x-019</code>
 			<reason>Id is correct for now.</reason>
 		</ignore>
+	</file>
+	<file path="book-5.xhtml">
 		<ignore>
-			<code>t-012</code>
-			<reason>White space is apparently non-existent</reason>
+			<code>x-019</code>
+			<reason>Id is correct for now.</reason>
 		</ignore>
 	</file>
 	<file path="book-6.xhtml">
@@ -46,19 +35,11 @@
 			<code>x-019</code>
 			<reason>Id is correct for now.</reason>
 		</ignore>
-		<ignore>
-			<code>t-012</code>
-			<reason>White space is apparently non-existent</reason>
-		</ignore>
 	</file>
 	<file path="book-7.xhtml">
 		<ignore>
 			<code>x-019</code>
 			<reason>Id is correct for now.</reason>
-		</ignore>
-		<ignore>
-			<code>t-012</code>
-			<reason>White space is apparently non-existent</reason>
 		</ignore>
 	</file>
 	<file path="book-8.xhtml">
@@ -66,19 +47,11 @@
 			<code>x-019</code>
 			<reason>Id is correct for now.</reason>
 		</ignore>
-		<ignore>
-			<code>t-012</code>
-			<reason>White space is apparently non-existent</reason>
-		</ignore>
 	</file>
 	<file path="book-9.xhtml">
 		<ignore>
 			<code>x-019</code>
 			<reason>Id is correct for now.</reason>
-		</ignore>
-		<ignore>
-			<code>t-012</code>
-			<reason>White space is apparently non-existent</reason>
 		</ignore>
 	</file>
 	<file path="content.opf">
