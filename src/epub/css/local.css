@@ -12,10 +12,6 @@
 	text-indent: 0;
 }
 
-[epub|type~="z3998:verse"] p + p{
-	margin-top: 1em;
-}
-
 [epub|type~="z3998:verse"] p > span{
 	display: block;
 	padding-left: 1em;
@@ -29,4 +25,8 @@
 p span.i1{
 	padding-left: 2em;
 	text-indent: -1em;
+}
+
+abbr[epub|type~="se:era"]{
+	font-variant: all-small-caps;
 }
