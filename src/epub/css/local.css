@@ -2,7 +2,7 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 /* Styling for chapters numbers */
-.chapter{
+.numbering{
 	font-weight: bold;
 }
 
