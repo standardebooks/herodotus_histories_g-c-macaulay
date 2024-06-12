@@ -53,11 +53,15 @@
 			<code>x-019</code>
 			<reason>Id is correct for now.</reason>
 		</ignore>
+		<ignore>
+			<code>y-031</code>
+			<reason>Lack of punctuation is consistent with the scans.</reason>
+		</ignore>
 	</file>
 	<file path="content.opf">
 		<ignore>
 			<code>x-018</code>
-			<reason>Ignore unused id attributes ofr now.</reason>
+			<reason>Ignore unused id attributes for now.</reason>
 		</ignore>
 	</file>
 	<file path="endnotes.xhtml">
