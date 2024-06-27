@@ -47,8 +47,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/2456</dc:source>
 		<dc:source>https://archive.org/details/historyofherodot0001geor_k1m8</dc:source>
 		<dc:source>https://archive.org/details/1914historyofhe02hero</dc:source>
-		<meta property="se:production-notes">The endnotes file has some 'h3' elements, as well 'ol' for each chapter. This is done to facilitate the workflow and will likely get removed after the links to and from the endnotes are finished.
-		The Project Gutenberg edition changed the polytonic greek texts from the scans to latin characters in brackets. They will be restored for this edition.</meta>
+		<meta property="se:production-notes">The Project Gutenberg edition changed the polytonic greek texts from the scans to latin characters in brackets. They will be restored for this edition.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Histories</meta>
