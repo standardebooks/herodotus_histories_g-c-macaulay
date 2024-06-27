@@ -64,10 +64,4 @@
 			<reason>Ignore unused id attributes for now.</reason>
 		</ignore>
 	</file>
-	<file path="endnotes.xhtml">
-		<ignore>
-			<code>t-057</code>
-			<reason>Ignore lowercase-starting paragraphs for now.</reason>
-		</ignore>
-	</file>
 </se-lint-ignore>
