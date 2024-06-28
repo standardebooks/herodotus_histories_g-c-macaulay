@@ -35,7 +35,7 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85057074</meta>
 		<meta property="se:subject">Nonfiction</meta>
-		<dc:description id="description">An account of the history and geography of several peoples of the Ancient World.</dc:description>
+		<dc:description id="description">Herodotus tells of the history and geography of several peoples of the Ancient World.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Written in the fifth century BC, &lt;i&gt;Histories&lt;/i&gt; is an important source of the peoples, locations and events of the ancient greek world and its related regions, mainly the Persian empire. The central narrative of the text is the wars between the Persians and the Hellenes (greeks).&lt;/p&gt;
 			&lt;p&gt;This work is an early source on the lives of significant historical figures and events, such as the defeat of the kingdom of Lydia, the foundation of the first Persian empire, Cyrus the Great’s ill-fated invasion of Scythia and Leonidas and his 300 warriors defense (and ultimately demise) at the Battle of Thermopylae&lt;/p&gt;
