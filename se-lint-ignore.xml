@@ -53,10 +53,6 @@
 			<code>x-019</code>
 			<reason>Id is correct for now.</reason>
 		</ignore>
-		<ignore>
-			<code>y-031</code>
-			<reason>Lack of punctuation is consistent with the scans.</reason>
-		</ignore>
 	</file>
 	<file path="content.opf">
 		<ignore>
