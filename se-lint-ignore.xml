@@ -1,63 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
-	<file path="book-1.xhtml">
+	<file path="book-*.xhtml">
 		<ignore>
 			<code>x-019</code>
-			<reason>Id is correct for now.</reason>
-		</ignore>
-	</file>
-	<file path="book-2.xhtml">
-		<ignore>
-			<code>x-019</code>
-			<reason>Id is correct for now.</reason>
-		</ignore>
-	</file>
-	<file path="book-3.xhtml">
-		<ignore>
-			<code>x-019</code>
-			<reason>Id is correct for now.</reason>
-		</ignore>
-	</file>
-	<file path="book-4.xhtml">
-		<ignore>
-			<code>x-019</code>
-			<reason>Id is correct for now.</reason>
-		</ignore>
-	</file>
-	<file path="book-5.xhtml">
-		<ignore>
-			<code>x-019</code>
-			<reason>Id is correct for now.</reason>
-		</ignore>
-	</file>
-	<file path="book-6.xhtml">
-		<ignore>
-			<code>x-019</code>
-			<reason>Id is correct for now.</reason>
-		</ignore>
-	</file>
-	<file path="book-7.xhtml">
-		<ignore>
-			<code>x-019</code>
-			<reason>Id is correct for now.</reason>
-		</ignore>
-	</file>
-	<file path="book-8.xhtml">
-		<ignore>
-			<code>x-019</code>
-			<reason>Id is correct for now.</reason>
-		</ignore>
-	</file>
-	<file path="book-9.xhtml">
-		<ignore>
-			<code>x-019</code>
-			<reason>Id is correct for now.</reason>
+			<reason>ID attibutes are named for their chapter numbers for clarity and ability to navigate to specific subsections.</reason>
 		</ignore>
 	</file>
 	<file path="content.opf">
 		<ignore>
 			<code>x-018</code>
-			<reason>Ignore unused id attributes for now.</reason>
+			<reason>ID attributes are included for consistency and ability to navigate to specific subsections.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
