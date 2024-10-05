@@ -35,6 +35,8 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85057074</meta>
 		<meta property="se:subject">Nonfiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">Herodotus recounts the history and geography of the ancient world.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Written in the fifth century BC, the &lt;i&gt;Histories&lt;/i&gt; is considered to be the founding work of history in the Western canon, and one of the foundational works of Western literature in general. The narrative centers on the wars between the Greeks and the Persians, and is an important source of information about the peoples, locations, and events of the ancient Greek world and the Persian empire.&lt;/p&gt;
