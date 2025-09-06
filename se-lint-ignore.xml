@@ -2,14 +2,12 @@
 <se-lint-ignore>
 	<file path="book-*.xhtml">
 		<ignore>
-			<code>x-019</code>
-			<reason>ID attibutes are named for their chapter numbers for clarity and ability to navigate to specific subsections.</reason>
-		</ignore>
-	</file>
-	<file path="content.opf">
-		<ignore>
 			<code>x-018</code>
 			<reason>ID attributes are included for consistency and ability to navigate to specific subsections.</reason>
+		</ignore>
+		<ignore>
+			<code>x-019</code>
+			<reason>ID attibutes are named for their chapter numbers for clarity and ability to navigate to specific subsections.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
