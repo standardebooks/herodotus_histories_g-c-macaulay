@@ -66,8 +66,8 @@
 		<meta property="se:name.person.full-name" refines="#translator">George Campbell Macaulay</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/G._C._Macaulay</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/nr96031669</meta>
-		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">John Collier</dc:contributor>
 		<meta property="file-as" refines="#artist">Collier, John</meta>
