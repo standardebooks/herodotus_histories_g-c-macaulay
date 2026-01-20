@@ -51,7 +51,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/2456</dc:source>
 		<dc:source>https://archive.org/details/historyofherodot0001geor_k1m8</dc:source>
 		<dc:source>https://archive.org/details/1914historyofhe02hero</dc:source>
-		<meta property="se:word-count">288127</meta>
+		<meta property="se:word-count">287977</meta>
 		<meta property="se:reading-ease.flesch">43.33</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Histories</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/herodotus_histories_g-c-macaulay</meta>
