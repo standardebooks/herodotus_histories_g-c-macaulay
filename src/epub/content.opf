@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/herodotus/histories/g-c-macaulay</dc:identifier>
 		<dc:date>2024-07-06T01:45:21Z</dc:date>
@@ -39,14 +39,14 @@
 		<meta property="schema:genre">Nonfiction</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:description id="description">Herodotus recounts the history and geography of the ancient world.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Herodotus recounts the history and geography of the ancient world.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Written in the fifth century BC, the &lt;i&gt;Histories&lt;/i&gt; is considered to be the founding work of history in the Western canon, and one of the foundational works of Western literature in general. The narrative centers on the wars between the Greeks and the Persians, and is an important source of information about the peoples, locations, and events of the ancient Greek world and the Persian empire.&lt;/p&gt;
 			&lt;p&gt;This work is an early source on the lives of significant historical figures and events, such as the defeat of the kingdom of Lydia, the foundation of the first Persian empire, Cyrus the Great’s ill-fated invasion of Scythia, and Leonidas’ defense, and ultimate demise, alongside his 300 warriors at the Battle of Thermopylae.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/herodotus"&gt;Herodotus&lt;/a&gt; wrote his history in order to preserve the knowledge of the actions of Greeks and “barbarians.” He is the first (and sometimes only) source for many of the names of locations and people featured in the book.&lt;/p&gt;
 			&lt;p&gt;Before the &lt;i&gt;Histories&lt;/i&gt;, the transmission of history existed primarily via oral storytelling and the occasional written chronicle; Herodotus can therefore be credited as the first person to treat the past in a more objective and scholarly manner, even if the &lt;i&gt;Histories&lt;/i&gt; cannot be considered an unbiased or primary source by modern standards. Although it contains some inaccurate—and sometimes even absurd—claims, it remains an important work both as a historical source and as classic literature.&lt;/p&gt;
 			&lt;p&gt;The &lt;i&gt;Histories&lt;/i&gt; was widely read in the ancient world, and its popularity led to Herodotus being called both “The Father of History” by &lt;a href="https://standardebooks.org/ebooks/cicero"&gt;Cicero&lt;/a&gt; and “The Father of Lies” by Plutarch.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2707</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/2456</dc:source>
