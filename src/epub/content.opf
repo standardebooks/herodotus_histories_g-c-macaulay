@@ -31,7 +31,7 @@
 		<dc:title id="title">Histories</dc:title>
 		<meta property="file-as" refines="#title">Histories</meta>
 		<dc:subject id="subject-1">History, Ancient</dc:subject>
-		<dc:subject id="subject-2">Greece -- History -- To 146 B.C.</dc:subject>
+		<dc:subject id="subject-2">Greece--History--To 146 B.C.</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85061232</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
