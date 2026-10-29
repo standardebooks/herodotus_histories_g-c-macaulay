@@ -89,6 +89,7 @@
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Hendrik Kaiber</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Kaiber, Hendrik</meta>
+		<meta property="schema:alternateName" refines="#producer-1">Hendrik de Wetterle Bonow Kaiber</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
