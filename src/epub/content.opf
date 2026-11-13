@@ -67,7 +67,7 @@
 		<dc:contributor id="translator">G. C. Macaulay</dc:contributor>
 		<meta property="file-as" refines="#translator">Macaulay, G. C.</meta>
 		<meta property="schema:alternateName" refines="#translator">George Campbell Macaulay</meta>
-		<link href="https://en.wikipedia.org/wiki/G._C._Macaulay" refines="#translator" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/George_Campbell_Macaulay" refines="#translator" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/nr96031669.html" refines="#translator" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
